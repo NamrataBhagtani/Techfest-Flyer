@@ -1,0 +1,21 @@
+/* Set the background image using background-image property for the body tag */
+
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: cursive; 
+    background-image: url('assets/background.png');
+}
+
+/* Set the width background, color and border radius for the h4 tag */
+
+div{
+    width: 30%;
+    display: inline-block;
+    color:purple;
+    
+}
+h4{
+    color: blue;
+}
